@@ -1,0 +1,149 @@
+[
+    {
+      "title": "Telecommunications Manufacturing Company",
+      "key": "0",
+      "children": [
+        {
+          "title": "Network Equipment",
+          "key": "0-0",
+          "children": [
+            {
+              "title": "Core Network",
+              "key": "0-0-0",
+              "children": [
+                {
+                  "title": "Routers",
+                  "key": "0-0-0-0",
+                  "children": [
+                    {
+                      "title": "Performance and Reliability",
+                      "key": "0-0-0-0-0",
+                      "children": [
+                        { "title": "High-Speed Routers", "key": "0-0-0-0-0-0" },
+                        { "title": "Standard-Speed Routers", "key": "0-0-0-0-0-1" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Switches",
+                  "key": "0-0-0-1",
+                  "children": [
+                    {
+                      "title": "Control and Management",
+                      "key": "0-0-0-1-0",
+                      "children": [
+                        { "title": "Managed Switches", "key": "0-0-0-1-0-0" },
+                        { "title": "Unmanaged Switches", "key": "0-0-0-1-0-1" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "Firewalls",
+                  "key": "0-0-0-2",
+                  "children": [
+                    {
+                      "title": "Control and Management",
+                      "key": "0-0-0-2-0",
+                      "children": [
+                        { "title": "Advanced Security Firewalls", "key": "0-0-0-2-0-0" },
+                        { "title": "Basic Security Firewalls", "key": "0-0-0-2-0-1" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Access Network",
+              "key": "0-0-1",
+              "children": [
+                { "title": "Base Stations", "key": "0-0-1-0" },
+                { "title": "Antennas", "key": "0-0-1-1" },
+                { "title": "Repeaters", "key": "0-0-1-2" },
+                {
+                  "title": "Performance and Reliability",
+                  "key": "0-0-1-3",
+                  "children": [
+                    { "title": "High-Speed Wi-Fi Routers", "key": "0-0-1-3-0" },
+                    { "title": "Wide Coverage Area Wi-Fi Routers", "key": "0-0-1-3-1" }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Consumer Devices",
+          "key": "0-1",
+          "children": [
+            {
+              "title": "Mobile Devices",
+              "key": "0-1-0",
+              "children": [
+                {
+                  "title": "User Experience and Compatibility",
+                  "key": "0-1-0-0",
+                  "children": [
+                    {
+                      "title": "Smartphones",
+                      "key": "0-1-0-0-0",
+                      "children": [
+                        { "title": "iOS Smartphones", "key": "0-1-0-0-0-0" },
+                        { "title": "Android Smartphones", "key": "0-1-0-0-0-1" }
+                      ]
+                    },
+                    {
+                      "title": "Tablets",
+                      "key": "0-1-0-0-1",
+                      "children": [
+                        { "title": "iOS Tablets", "key": "0-1-0-0-1-0" },
+                        { "title": "Android Tablets", "key": "0-1-0-0-1-1" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Home Devices",
+              "key": "0-1-1",
+              "children": [
+                { "title": "Modems", "key": "0-1-1-0" },
+                {
+                  "title": "Wi-Fi Routers",
+                  "key": "0-1-1-1",
+                  "children": [
+                    {
+                      "title": "Performance and Reliability",
+                      "key": "0-1-1-1-0",
+                      "children": [
+                        { "title": "High-Speed Wi-Fi Routers", "key": "0-1-1-1-0-0" },
+                        { "title": "Standard-Speed Wi-Fi Routers", "key": "0-1-1-1-0-1" }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "title": "User Experience and Compatibility",
+                  "key": "0-1-1-2",
+                  "children": [
+                    {
+                      "title": "Smart Home Devices",
+                      "key": "0-1-1-2-0",
+                      "children": [
+                        { "title": "Security Devices", "key": "0-1-1-2-0-0" },
+                        { "title": "Appliance Devices", "key": "0-1-1-2-0-1" }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

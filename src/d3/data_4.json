@@ -1,0 +1,143 @@
+[
+    {
+      "title": "Telecommunications Manufacturing Company",
+      "key": "Telecommunications Manufacturing Company",
+      "children": [
+        {
+          "title": "Product Type",
+          "key": "Product Type",
+          "children": [
+            {
+              "title": "Network Equipment",
+              "key": "Network Equipment",
+              "children": [
+                {
+                  "title": "Core Network (Function)",
+                  "key": "Core Network (Function)",
+                  "children": [
+                    {
+                      "title": "Routers (Technology: Wired, Target Audience: Enterprises)",
+                      "key": "Routers"
+                    },
+                    {
+                      "title": "Switches (Technology: Wired, Target Audience: Enterprises)",
+                      "key": "Switches"
+                    },
+                    {
+                      "title": "Firewalls (Technology: Wired, Target Audience: Enterprises)",
+                      "key": "Firewalls"
+                    }
+                  ]
+                },
+                {
+                  "title": "Access Network (Function)",
+                  "key": "Access Network (Function)",
+                  "children": [
+                    {
+                      "title": "Base Stations (Technology: Wireless, Target Audience: Enterprises)",
+                      "key": "Base Stations"
+                    },
+                    {
+                      "title": "Antennas (Technology: Wireless, Target Audience: Enterprises)",
+                      "key": "Antennas"
+                    },
+                    {
+                      "title": "Repeaters (Technology: Wireless, Target Audience: Enterprises)",
+                      "key": "Repeaters"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "title": "Consumer Devices",
+              "key": "Consumer Devices",
+              "children": [
+                {
+                  "title": "Mobile Devices (Function)",
+                  "key": "Mobile Devices (Function)",
+                  "children": [
+                    {
+                      "title": "Smartphones (Technology: Wireless, Target Audience: Consumers)",
+                      "key": "Smartphones"
+                    },
+                    {
+                      "title": "Tablets (Technology: Wireless, Target Audience: Consumers)",
+                      "key": "Tablets"
+                    }
+                  ]
+                },
+                {
+                  "title": "Home Devices (Function)",
+                  "key": "Home Devices (Function)",
+                  "children": [
+                    {
+                      "title": "Modems (Technology: Wired, Target Audience: Consumers)",
+                      "key": "Modems"
+                    },
+                    {
+                      "title": "Wi-Fi Routers (Technology: Wireless, Target Audience: Consumers)",
+                      "key": "Wi-Fi Routers"
+                    },
+                    {
+                      "title": "Smart Home Devices (Technology: Smart Technology, Target Audience: Consumers)",
+                      "key": "Smart Home Devices"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Services",
+          "key": "Services",
+          "children": [
+            {
+              "title": "Installation (Function)",
+              "key": "Installation (Function)",
+              "children": [
+                {
+                  "title": "Network Setup (Technology: Both, Target Audience: Enterprises)",
+                  "key": "Network Setup"
+                },
+                {
+                  "title": "Device Configuration (Technology: Both, Target Audience: Enterprises)",
+                  "key": "Device Configuration"
+                }
+              ]
+            },
+            {
+              "title": "Maintenance (Function)",
+              "key": "Maintenance (Function)",
+              "children": [
+                {
+                  "title": "Routine Maintenance (Technology: Both, Target Audience: Enterprises)",
+                  "key": "Routine Maintenance"
+                },
+                {
+                  "title": "Emergency Repairs (Technology: Both, Target Audience: Enterprises)",
+                  "key": "Emergency Repairs"
+                }
+              ]
+            },
+            {
+              "title": "Consulting (Function)",
+              "key": "Consulting (Function)",
+              "children": [
+                {
+                  "title": "Network Planning (Technology: Both, Target Audience: Enterprises)",
+                  "key": "Network Planning"
+                },
+                {
+                  "title": "Technology Upgrades (Technology: Both, Target Audience: Enterprises)",
+                  "key": "Technology Upgrades"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  

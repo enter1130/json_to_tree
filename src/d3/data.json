@@ -1,0 +1,150 @@
+{
+    "name": "Product Technology",
+    "children": [
+      {
+        "name": "Antenna",
+        "children": [
+          {
+            "name": "Antenna",
+            "children": [
+              {
+                "name": "Type",
+                "children": [
+                  {
+                    "name": "Embedded"
+                  },
+                  {
+                    "name": "External"
+                  }
+                ]
+              },
+              {
+                "name": "Air interface",
+                "children": [
+                  {
+                    "name": "Cellular"
+                  },
+                  {
+                    "name": "Satellite"
+                  },
+                  {
+                    "name": "WiFi"
+                  },
+                  {
+                    "name": "Digital Radio"
+                  },
+                  {
+                    "name": "Zigbee/Thread"
+                  },
+                  {
+                    "name": "Zwave/CC Radio"
+                  },
+                  {
+                    "name": "LPWA"
+                  },
+                  {
+                    "name": "BT"
+                  },
+                  {
+                    "name": "NFC"
+                  },
+                  {
+                    "name": "RFID"
+                  },
+                  {
+                    "name": "GNSS"
+                  },
+                  {
+                    "name": "Radar"
+                  },
+                  {
+                    "name": "V2X"
+                  },
+                  {
+                    "name": "UWB"
+                  },
+                  {
+                    "name": "Proprietary RF"
+                  },
+                  {
+                    "name": "DECT"
+                  }
+                ]
+              },
+              {
+                "name": "Gain",
+                "children": [
+                  {
+                    "name": "Uniform"
+                  },
+                  {
+                    "name": "High gain"
+                  }
+                ]
+              },
+              {
+                "name": "Polarization",
+                "children": [
+                  {
+                    "name": "Linear"
+                  },
+                  {
+                    "name": "Circular"
+                  }
+                ]
+              },
+              {
+                "name": "Material",
+                "children": [
+                  {
+                    "name": "Metal"
+                  },
+                  {
+                    "name": "PCB"
+                  },
+                  {
+                    "name": "FPC"
+                  },
+                  {
+                    "name": "LDS"
+                  }
+                ]
+              },
+              {
+                "name": "Structure",
+                "children": [
+                  {
+                    "name": "Dipole"
+                  },
+                  {
+                    "name": "Array"
+                  },
+                  {
+                    "name": "PIFA"
+                  },
+                  {
+                    "name": "Coupling"
+                  },
+                  {
+                    "name": "Slot"
+                  },
+                  {
+                    "name": "Loop"
+                  }
+                ]
+              },
+              {
+                "name": "Function",
+                "children": [
+                  {
+                    "name": "Active"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

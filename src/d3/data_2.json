@@ -1,0 +1,137 @@
+[
+    {
+      "title": "Telecommunications Manufacturing Company",
+      "key": "Telecommunications Manufacturing Company",
+      "children": [
+        {
+          "title": "Network Equipment",
+          "key": "Network Equipment",
+          "children": [
+            {
+              "title": "Core Network",
+              "key": "Core Network",
+              "children": [
+                {
+                  "title": "Routers",
+                  "key": "Routers"
+                },
+                {
+                  "title": "Switches",
+                  "key": "Switches"
+                },
+                {
+                  "title": "Firewalls",
+                  "key": "Firewalls"
+                }
+              ]
+            },
+            {
+              "title": "Access Network",
+              "key": "Access Network",
+              "children": [
+                {
+                  "title": "Base Stations",
+                  "key": "Base Stations"
+                },
+                {
+                  "title": "Antennas",
+                  "key": "Antennas"
+                },
+                {
+                  "title": "Repeaters",
+                  "key": "Repeaters"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Consumer Devices",
+          "key": "Consumer Devices",
+          "children": [
+            {
+              "title": "Mobile Devices",
+              "key": "Mobile Devices",
+              "children": [
+                {
+                  "title": "Smartphones",
+                  "key": "Smartphones"
+                },
+                {
+                  "title": "Tablets",
+                  "key": "Tablets"
+                }
+              ]
+            },
+            {
+              "title": "Home Devices",
+              "key": "Home Devices",
+              "children": [
+                {
+                  "title": "Modems",
+                  "key": "Modems"
+                },
+                {
+                  "title": "Wi-Fi Routers",
+                  "key": "Wi-Fi Routers"
+                },
+                {
+                  "title": "Smart Home Devices",
+                  "key": "Smart Home Devices"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "title": "Services",
+          "key": "Services",
+          "children": [
+            {
+              "title": "Installation Services",
+              "key": "Installation Services",
+              "children": [
+                {
+                  "title": "Network Setup",
+                  "key": "Network Setup"
+                },
+                {
+                  "title": "Device Configuration",
+                  "key": "Device Configuration"
+                }
+              ]
+            },
+            {
+              "title": "Maintenance Services",
+              "key": "Maintenance Services",
+              "children": [
+                {
+                  "title": "Routine Maintenance",
+                  "key": "Routine Maintenance"
+                },
+                {
+                  "title": "Emergency Repairs",
+                  "key": "Emergency Repairs"
+                }
+              ]
+            },
+            {
+              "title": "Consulting Services",
+              "key": "Consulting Services",
+              "children": [
+                {
+                  "title": "Network Planning",
+                  "key": "Network Planning"
+                },
+                {
+                  "title": "Technology Upgrades",
+                  "key": "Technology Upgrades"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
